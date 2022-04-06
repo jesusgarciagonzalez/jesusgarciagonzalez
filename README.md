@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jesusgarciagonzalez
-- 👀 I’m interested in ...Automated Software Testing with python/bash and Hardware Develop with HDL like verilog and vhdl.
+- 👀 I’m interested in ...Automated Software Testing
 - 🌱 I’m currently learning ...Automated Software Testing in a edx course and python.
 - 💞️ I’m looking to collaborate on ...Automated Software Testing or hardware/software developer.
 - 📫 How to reach me ...this is my email: jesus.garcia.g92@hotmail.com 
